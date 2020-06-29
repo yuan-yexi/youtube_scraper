@@ -1,1 +1,6 @@
 env
+.vscode
+cleaned_output
+output
+notebooks
+geckodriver.log
